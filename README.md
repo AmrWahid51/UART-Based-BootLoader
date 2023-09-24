@@ -11,6 +11,7 @@ Sending an Application Hex Code Through UART and Flashing it on the Flash Memory
  * RCC
  * GPIO
  * UART
+   
 2nd Microcontroller:
  * RCC
  * GPIO
