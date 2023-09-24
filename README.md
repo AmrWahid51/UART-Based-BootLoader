@@ -20,3 +20,6 @@ Sending an Application Hex Code Through UART and Flashing it on the Flash Memory
  * FLASH
  * HEXAPARSER
  * BOOTLOADER APP
+
+# HEX Code Description:
+It is simply a code which toggle a Led on pin1 PortA
